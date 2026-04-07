@@ -1,0 +1,10 @@
+########################################
+# Gitee API 配置
+# 文档: https://gitee.com/api/v5/swagger
+########################################
+
+links:
+  # Gitee 用户仓库列表示例
+  # - https://gitee.com/api/v5/users/{username}/repos?type=all&per_page=100
+  # Gitee 仓库 issues 示例
+  # - https://gitee.com/api/v5/repos/{owner}/{repo}/issues?state=all&per_page=20
